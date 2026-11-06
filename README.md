@@ -36,13 +36,6 @@ Uma página com um mini game de reflexos. Clique no alvo o máximo de vezes que 
 
 **[▷Ver todos os repositórios](https://github.com/danielgabrieleduardo2020-maker?tab=repositories)**
 
-## ✦ GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danielgabrieleduardo2020-maker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgabrieleduardo2020-maker&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
-</div>
-
 ## ✦ Vamos nos conectar?
 
 - **GitHub:** [danielgabrieleduardo2020-maker](https://github.com/danielgabrieleduardo2020-maker)
